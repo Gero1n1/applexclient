@@ -2,11 +2,16 @@
   "version": "1.0.0",
   "mc_version": "1.21.11",
   "loader": "Fabric 0.19.2",
-  "changelog": "Initial release. Applex Client v1.0.0 — полная обфускация (ProGuard + Skidfuscator).",
+  "launcher_version": "3.0.0",
+  "changelog": "Applex Client v1.0.0 — full launcher with MC library/asset/natives downloading.",
   "files": [
     {
       "name": "applex.jar",
       "url": "https://github.com/Gero1n1/applexclient/raw/main/builds/applex.jar"
     }
-  ]
+  ],
+  "launcher": {
+    "name": "ApplexLauncher.exe",
+    "url": "https://github.com/Gero1n1/applexclient/raw/main/builds/ApplexLauncher.exe"
+  }
 }
