@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "mc_version": "1.21.4",
+  "loader": "Fabric 0.18.4",
+  "fabric_api": "0.119.4+1.21.4",
+  "launcher_version": "3.0.0",
+  "mod_jar": "delta-client.jar",
+  "changelog": "Delta Client v1.0.0 — 1.21.4 Fabric loader. HWID-bound, session auto-login until reboot.",
+  "files": [
+    {
+      "name": "delta-client.jar",
+      "url": "https://site-5a0.pages.dev/delta-client.jar",
+      "sha256": "A3E0D71A39945571AA85C20AF9067DC82E57CF54C8CE2EAA4D7872FF97691204"
+    }
+  ],
+  "launcher": {
+    "name": "ApplexLauncher.jar",
+    "url": "https://site-5a0.pages.dev/ApplexLauncher.jar"
+  }
+}
